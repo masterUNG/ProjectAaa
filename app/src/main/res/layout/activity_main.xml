@@ -8,6 +8,7 @@
     android:orientation="vertical"
     tools:context="com.kk.findgirlsandmeetadvice.MainActivity">
 
+    <!--ToolBar-->
     <android.support.v7.widget.Toolbar
         android:id="@+id/toolBar"
         android:layout_width="match_parent"
@@ -16,13 +17,28 @@
         android:title=""
         app:title="">
 
-        <ImageView
-            android:id="@+id/back"
-            android:layout_width="100dp"
-            android:layout_height="match_parent"
-            android:src="@drawable/nav_back" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+
+            <!--Navigation-->
+            <TextView
+                android:textColor="#ffffff"
+                android:textStyle="bold"
+                android:textSize="30sp"
+                android:text="Back"
+                android:id="@+id/back"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="15dp" />
+
+        </RelativeLayout>
+
+
     </android.support.v7.widget.Toolbar>
 
+    <!--Content-->
     <WebView
         android:id="@+id/webview"
         android:layout_width="match_parent"

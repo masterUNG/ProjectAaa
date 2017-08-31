@@ -20,6 +20,6 @@ public class LauncherActivity extends AppCompatActivity {
                 startActivity(intent);
                 finish();
             }
-        }, 3000);
+        }, 3000);   // Delay Time 3 Sec
     }
 }

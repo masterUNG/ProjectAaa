@@ -26,7 +26,10 @@ import com.google.android.gms.ads.InterstitialAd;
 public class MainActivity extends AppCompatActivity {
     public static boolean isGoogle = true; //true false
 
-    public final String[] AllowHtmlAd = new String[]{"Page1.html", "Page2.html", "Page3.html", "Page3.1.html", "Page3.2.html", "Page3.3.html", "Page3.4.html", "Page3.5.html", "Page4.html", "Page5.html", "Page5.1.html", "Page5.2.html", "Page5.3.html" };
+    public final String[] AllowHtmlAd = new String[]{"Page1.html", "Page2.html", "Page3.html",
+            "Page3.1.html", "Page3.2.html", "Page3.3.html", "Page3.4.html",
+            "Page3.5.html", "Page4.html", "Page5.html", "Page5.1.html",
+            "Page5.2.html", "Page5.3.html" };
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
