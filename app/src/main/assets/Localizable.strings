@@ -1,0 +1,221 @@
+/* 
+   Localizable.strings
+   SeattleClouds
+
+   Created by MobiBlocks on 8/29/11.
+   Copyright 2011 MobiBlocks. All rights reserved.
+ */
+
+//All pages
+"Back" = "Back";
+"OK" = "OK";
+"Error" = "Error";
+"Save" = "Save";
+"Cancel" = "Cancel";
+"Done" = "Done";
+"YES" = "YES";
+"NO" = "NO";
+"Close" = "Close";
+"Warning" = "Warning";
+"Message Successfully Sent!" = "Message Successfully Sent!";
+"Message Failed To Be Sent!" = "Message Failed To Be Sent!";
+"Message Have Been Saved To Drafts!" = "Message Have Been Saved To Drafts!";
+"Cannot send emails from this device!" = "Cannot send emails from this device!";
+"Not available"  = "Not available";
+"No internet connection" = "No internet connection";
+"Posted successfully to Facebook!" = "Posted successfully to Facebook!";
+"Share on Facebook" = "Share on Facebook";
+"Share by Email" = "Share by Email";
+"Send by Email" = "Send by Email";
+"Save to Photo Library" = "Save to Photo Library";
+"Delete" = "Delete";
+"Scan" = "Scan";
+"Scanned History" = "Scanned History";
+"Open in Maps" = "Open in Maps";
+"Bad URL" = "Bad URL";
+"Message" = "Message";
+//+++++++++++++++++++PVC
+"Choose a way to share this" = "Choose a way to share this";
+"Successfully saved to Photo Library!" = "Successfully saved to Photo Library!";
+"Locating..." = "Locating...";
+"No connection" = "No connection";
+"Unable to get locations. Internet connection is not available." = "Unable to get locations. Internet connection is not available.";
+"Unable to find locations source." = "Unable to find locations source.";
+"Sorry, no locations found." = "Sorry, no locations found.";
+"Try Again" = "Try Again";
+"Unable to send request. Internet connection is not available." = "Unable to send request. Internet connection is not available.";
+"Required field" = "Required field";
+"can not be empty" = "can not be empty";
+//++++++++++++++++++MainC
+"Can not make payments from this device." = "Can not make payments from this device.";
+"Unable to send email from this device. Please configure your email account and try again." = "Unable to send email from this device. Please configure your email account and try again.";
+"iPhone only" = "iPhone only";
+"Phone call operation not supported on iPod Touch" = "Phone call operation not supported on iPod Touch";
+"Invalid Lat Long specified" = "Invalid Lat Long specified";
+"File can only be downloaded via a WiFi Network" = "File can only be downloaded via a WiFi Network";
+"Bookmark set" = "Bookmark set ";
+"Bookmark failed" = "Bookmark failed ";
+"This page type is not supported on Tab." = "This page type is not supported on Tab.";
+"Successful pay." = "Successful pay.";
+"Failed pay." = "Failed pay.";
+"The In-App Purchase is NOT setup correctly. Please contact the owner of the app." = "The In-App Purchase is NOT setup correctly. Please contact the owner of the app.";
+"In-App Purchase server is temporarily unavailable, please try again later." = "In-App Purchase server is temporarily unavailable, please try again later.";
+"Invalid Address" = "Invalid Address";
+"Unable to locate specified address. Make sure there is an active internet connection." = "Unable to locate specified address. Make sure there is an active internet connection.";
+"Files" = "Files";
+"The request timed out." = "The request timed out.";
+"Request failed" = "Request failed";
+"This page type is not included in the current application version. Application needs to be updated to support this feature." = "This page type is not included in the current application version. Application needs to be updated to support this feature.";
+"This version of iOS doesn't support adding an event to the calendar." = "This version of iOS doesn't support adding an event to the calendar.";
+"Device doesn't support SMS." = "Device doesn't support SMS.";
+"Device not configured to send Email." = "Device not configured to send Email.";
+//++++++++++++++++++UpdateC
+"Clear Cache Done." = "Clear Cache Done.";
+"Deleting..." = "Deleting...";
+"failed to update. Reason" = "failed to update. Reason";//Example: "Filename.txt failed to update. Reason:File missing."
+"Sync in progress..." = "Sync in progress...";
+"Initializing... (please wait)" = "Initializing... (please wait)";
+"Sync Complete" = "Sync Complete";
+"Sync Error" = "Sync Error";
+"Clear Cache" = "Clear Cache";
+"Sync" = "Sync";
+
+//Dynamic HTML
+"Unable to send request" = "Unable to send request";
+"Please Log In first." = " Please Log In first.";
+"Unable to access data." = "Unable to access data.";
+"Please make sure you have connection to Internet." = "Please make sure you have connection to Internet.";
+
+//Shopcard page
+"Failed to add item to cart." = "Failed to add item to cart.";
+"Item successfully added to cart."= "Item successfully added to cart.";
+
+//Notes page
+"Notes" = "Notes";
+"Edit Note" = "Edit Note";
+"Note" = "Note";
+"DELETE" = "DELETE";
+"SEND BY EMAIL" = "SEND BY EMAIL";
+
+//Pick
+"Pick" = " Pick";
+"Take" = " Take";
+//+++++Button "Choose..." in section PhotoEffect page;
+
+//PhotoEffect page
+"Sorry!" = "Sorry!";
+"Cannot access camera or Photo Library now." = "Cannot access camera or Photo Library now.";
+"Choose a way to send this" = "Choose a way to send this";
+"Take a photo from:" = "Take a photo from:";
+"Camera" = "Camera";
+"Photos" = "Photos";
+"Cannot access camera." = "Cannot access camera.";
+"Cannot access Photo Library." = "Cannot access Photo Library.";
+"Apply" = "Apply";
+"Choose..." = "Choose...";
+"Effect" = "Effect";
+"Mask" = "Mask";
+"Send" = "Send";
+"Uploading picture. Please wait" = "Uploading picture.\n Please wait ...";
+"Photo Library" = "Photo Library";
+"Photo Uploaded" = "Photo Uploaded";
+"FAILED To Upload" = "FAILED To Upload";
+
+//Mosaic page
+"Refresh" = "Refresh";
+"of" = "of"; //Example: 2 of 10 (second image of ten)
+"I thought to share this image with you" = "I thought to share this image with you"; //Subject of email
+"I believe you might like it" = "I believe you might like it"; //Message of email
+"Image failed to upload!" = "Image failed to upload!";
+"Image uploaded successfully!" = "Image uploaded successfully!";
+"Library" = "Library";
+
+//Facebook Rates
+"Empty" = "Empty";
+"Comment can not be empty" = "Comment can not be empty";
+"hate it" = "hate it";
+"don't like it" = "don't like it";
+"it's ok" = "it's ok";
+"it's good" = "it's good";
+"it's great" = "it's great";
+"Connect with Facebook to rate or post comments" = "Connect with Facebook to rate or post comments";
+"Connected to Facebook as" ="Connected to Facebook as";
+"comment(s)" = "comment(s)";
+"Retrieving ratings..." = "Retrieving ratings...";
+
+//Feedback page
+"Invalid Data" = "Invalid Data";
+"Unable to locate specified address." = "Unable to locate specified address.";
+
+//Calendar page
+"Calendar" = "Calendar";
+"Add Event" = "Add Event";
+"Edit Event" = "Edit Event";
+"Unexpected error occured, please restart the app" = "Unexpected error occured, please restart the app";
+"Today" = "Today";
+"Day" = "Day";
+"Month" = "Month";
+"New Event" = "New Event";
+"Delete Event" = "Delete Event";
+"This is a repeating event." = "This is a repeating event.";
+"Delete This Event Only" = "Delete This Event Only";
+"Delete All Events" = "Delete All Events";
+"Choose a category" = "Choose a category";
+"Choose an end date after the start date" = "Choose an end date after the start date";
+"Work events for the following days will be created:" = "Work events for the following days will be created:";
+"Confirmation" = "Confirmation";
+"Starts" = "Starts";
+"Ends" = "Ends";
+"Category" = "Category";
+"Case number" = "Case number";
+"Reference" = "Reference";
+"Location" = "Location";
+"Days on" = "Days on";
+"Days off" = "Days off";
+"Title" = "Title";
+"Start" = "Start";
+"End" = "End";
+
+//Email attachment page
+"Your email has been sent successfully" = "Your email has been sent successfully";
+"Your email failed to be sent" = "Your email failed to be sent";
+"Your email has been saved to drafts" = "Your email has been saved to drafts";
+
+//Push notification
+"Notification Message" = "Notification Message";
+
+//Login page
+"Username exists, but specified password is incorrect." = "Username exists, but specified password is incorrect.";
+"Username does not exist." = "Username does not exist.";
+"Username and password do not exist." = "Username and password do not exist.";
+
+//SMS page
+"This page type is not supported on your version of iOS." = "This page type is not supported on your version of iOS.";
+"Device not configured to send SMS." = "Device not configured to send SMS.";
+
+//Mobile Browser page
+"Open in Safari" = "Open in Safari";
+
+//Coupone page
+"You will be allowed to scan this coupon in %d hours." = "You will be allowed to scan this coupon in %d hours.";
+"QR code has been scanned succesfully." = "QR code has been scanned succesfully.";
+"Scanned QR code does not match coupon's QR code." = "Scanned QR code does not match coupon's QR code.";
+"Show this coupon to the vendor." = "Show this coupon to the vendor.";
+"This coupon expired" = "This coupon expired";
+"This coupon will be valid" = "This coupon will be valid";
+"This page was set up incorrectly." = "This page was set up incorrectly.";
+"Scan complet" = "Scan complet";
+
+
+//-------------------------
+//System strings
+//Login window
+"Login" = "Login";
+"Logout" ="Logout";
+"Successful!"= "Successful!";
+"Registration" = "Registration";
+"Username too short" = "Username too short";
+"Password too short" = "Password too short";
+"Invalid email" = "Invalid email";
+"First name cannot be empty" = "First name cannot be empty";
+"Please correct the following:" = "Please correct the following:";

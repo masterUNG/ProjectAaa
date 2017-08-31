@@ -1,0 +1,63 @@
+body{font-size:14pt;line-height:;font-family:Lucida Sans Unicode, Lucida Grande, sans-serif;background-color:#484642;width:100%;background-image:url(backgroundlogo.png);background-repeat: repeat;margin:0px;color:#666666;direction:;}
+p{padding-right: 4px;padding-left: 4px;}
+a{color:#666666;text-decoration:none;font-weight:bold;font-size:14pt;}
+a:visited{color:#666666;text-decoration:none;font-weight:bold;}
+h1{font-family: "Lucida Sans Unicode";font-size: 18pt;color: #474747;font-weight: regular;}
+h2{ffont-family: "Lucida Sans Unicode";font-size: 14pt;color: #474747;font-weight: regular;}
+h3{font-family: "Lucida Sans Unicode";font-size: 12pt;color: #474747;font-weight: bold;}
+li{font-family: "Lucida Sans Unicode";font-size: 11pt;font-style: normal;line-height: normal;padding: 0px;/*list-style-type: square;*/margin-bottom:10px;color: #666666;}
+.itemimage{border:solid 0px #aaa;max-width:100px;width: expression(this.width > 100 ? 100: true);vertical-align:middle;}
+ .iimage{border:solid 0px #aaa;max-width:320px;width: expression(this.width > 320 ? 320: true);vertical-align:middle;}
+ol{list-style-type: decimal;}
+ul{list-style-type: square;}
+.iconmenutitle{color: #666666;font-size:14pt;
+}
+
+/*stripesmenucssaddition*/
+.stripesmenulistcontainer
+{
+text-align:left;
+width:100%;
+}
+       
+.StripesMenuList
+{
+    text-align:left;
+    list-style:none;
+    margin:0px;
+    padding:0px;
+    margin-top:10px;
+}
+
+.StripesMenuItem 
+{
+line-height: 35px;
+background: rgba(51, 51, 51, 0.6);
+margin-bottom:10px;
+}
+
+.StripesMenuTitle 
+{
+ margin:0;
+ display:block;
+ font-size: 16px;
+ font-weight:100;
+ font-family:STHeitiTC-Light, Century Gothic;
+ text-decoration:none;
+ color:#fff;
+ -webkit-touch-callout: none;
+ -webkit-user-select: none;
+ -khtml-user-select: none;
+ -moz-user-select: none;
+ -ms-user-select: none;
+ user-select: none;
+}
+
+.StripesMenuImage
+{
+ vertical-align:middle;
+ margin-left:15px;
+ margin-top:2px;
+ margin-right:10px;
+ margin-bottom:2px;
+}

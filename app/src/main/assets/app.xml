@@ -1,0 +1,80 @@
+<xml>
+  <targetplatform simulator="Nexus5">Android</targetplatform>
+  <template price="199.99" defaultPageTransition="none" id="4TabAppBlank" scaleWebPagesToBaseResolution="false" topadtype="none" bottomadtype="admob" globalLogo="" isUniversalApp="false" />
+  <prop id="appname" title="App Name">GuidePlantsvsZombies2</prop>
+  <prop id="tab1text" title="Tab1 Text">tab1</prop>
+  <prop id="tab1icon" title="Tab1 Icon">cover.png</prop>
+  <prop id="tab2text" title="Tab2 Text">tab2</prop>
+  <prop id="tab2icon" title="Tab2 Icon">index.png</prop>
+  <prop id="tab3text" title="Tab3 Text">tab3</prop>
+  <prop id="tab3icon" title="Tab3 Icon">content.png</prop>
+  <prop id="tab4text" title="Tab4 Text">tab4</prop>
+  <prop id="tab4icon" title="Tab4 Icon">coffee.png</prop>
+  <planname>Basic</planname>
+  <navigation type="simple">
+    <items>
+      <item icon="cover.png" text="tab1" />
+      <item icon="index.png" text="tab2" />
+      <item icon="content.png" text="tab3" />
+      <item icon="coffee.png" text="tab4" />
+    </items>
+  </navigation>
+  <page id="index.html" type="rightpanelmenu" kind="html" transition="NONE" slidepageid="" slidetransition="slide" hasreviews="no" hassend="no" hasfields="false" topadtype="none" bottomadtype="admob" dynamicdata="false" jsonurl="" hidebottombaratpush="no" title="" logo="" shownavbar="yes" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" />
+  <page id="Page1.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="none" bottomadtype="admob" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="yes" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" interstitialadview="fullscreen" />
+  <page id="Page2.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="none" bottomadtype="admob" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="yes" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" interstitialadview="fullscreen" />
+  <page id="Page4.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="admob" bottomadtype="inherited" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="yes" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" interstitialadview="fullscreen" />
+  <page id="Page5.html" type="stripesmenu" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="none" bottomadtype="admob" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="yes" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" interstitialadview="fullscreen" />
+  <page id="Page5.1.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="none" bottomadtype="admob" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="yes" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" interstitialadview="fullscreen" />
+  <page id="Page5.2.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="none" bottomadtype="admob" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="yes" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" interstitialadview="fullscreen" />
+  <page id="Page5.3.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="none" bottomadtype="admob" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="yes" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" interstitialadview="fullscreen" />
+  <page id="Page3.1.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="none" bottomadtype="admob" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="yes" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" interstitialadview="fullscreen" />
+  <page id="Page3.2.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="none" bottomadtype="admob" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="yes" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" interstitialadview="fullscreen" />
+  <page id="Page3.html" type="stripesmenu" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="none" bottomadtype="admob" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="yes" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" interstitialadview="fullscreen" />
+  <page id="Page3.3.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="none" bottomadtype="admob" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="yes" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" interstitialadview="fullscreen" />
+  <page id="Page3.4.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="none" bottomadtype="admob" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="yes" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" interstitialadview="fullscreen" />
+  <page id="Page3.5.html" type="html" kind="html" transition="NONE" slidepageid="none" slidetransition="none" hasreviews="no" hassend="no" hasfields="no" topadtype="none" bottomadtype="admob" dynamicdata="false" jsonurl="" hidebottombaratpush="no" hasreviewhtmlkey="no" title="" logo="" shownavbar="yes" interstitialadtype="admob" transitionsound="" hidetabbaratpush="no" zoomEnabled="false" loadWebUrlsInSameWebView="false" backgroundColor="" interstitialadview="fullscreen" />
+  <hostedresources>
+  </hostedresources>
+  <restrictedaccess>
+    <feature id="announcements" enabled="true" />
+    <feature id="calendar" enabled="true" />
+    <feature id="coupon" enabled="true" />
+    <feature id="geofences" enabled="true" />
+    <feature id="loyalty" enabled="true" />
+    <feature id="map" enabled="true" />
+    <feature id="productorder" enabled="true" />
+    <feature id="pushnotifications" enabled="true" />
+    <feature id="Booking" enabled="true" />
+  </restrictedaccess>
+  <rateapp appleid="" rateatlaunch="no" rateatrelaunch="no" message="" cancelmessage="" remindmessage="" actionmessage="" />
+  <ads allowUsingAdvertisingId="false" />
+  <admobpublisher id="ca-app-pub-8549639420372799/2288311065" interstitialUnitId="ca-app-pub-8549639420372799/3765044262" />
+  <doubleclickpublisher unitId="" />
+  <pollfish apiKey="" padding="0" position="na" />
+  <revmobappid id="-" />
+  <scads refreshRate="60" />
+  <googleanalyticsid id="" />
+  <localizablelanguage value="en" />
+  <paypalappid id="" />
+  <fbapp apikey="" />
+  <androidAppLicensing enabled="false" publicKey="" />
+  <apkExpansionFiles enabled="false" />
+  <androidInAppBilling enabled="false" />
+  <android installLocation="auto" />
+  <pdftron licenseKey="" />
+  <rotationapp>false</rotationapp>
+  <webView bouncesEnabled="false" hideLoadingAnimation="false" externalSiteZoomEnabled="false" />
+  <sharepointclient url="" username="" password="" />
+  <appstorelink>
+  </appstorelink>
+  <googleMaps androidApiV2Key="" />
+  <baiduMaps baiduMapsApiKeyAndroid="" baiduMapsApiKeyiOS="" />
+  <webapp statusBarStyle="default" iconsStyle="precomposed" offlineModeEnabled="false" inAppLinks="false" />
+  <locationServices>
+    <inUseDescription>
+    </inUseDescription>
+    <alwaysDescription>
+    </alwaysDescription>
+  </locationServices>
+  <inAppSettings />
+</xml>

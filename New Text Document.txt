@@ -1,0 +1,7 @@
+please modify this code.
+
+1. At index.html, when i press link to menu.html, i want show full screen ads.
+
+2. i want to add facebook ads
+
+i will choose admob/facebook ads, by if statement (hardcode) on MainActivity
